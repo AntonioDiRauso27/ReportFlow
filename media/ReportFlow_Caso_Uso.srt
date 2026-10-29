@@ -1,0 +1,34 @@
+1
+00:00:00,000 --> 00:00:08,000
+Ogni trimestre, più file e più clienti.
+Il caso simulato: riordinare export mensili e preparare report separati, ripetendo gli stessi passaggi.
+
+2
+00:00:08,000 --> 00:00:17,000
+Sei export. Due formati.
+Aprile-settembre 2026, tre aziende e 319 record sintetici. La demo riconosce due tracciati con intestazioni e decimali diversi.
+
+3
+00:00:17,000 --> 00:00:26,000
+I mesi mancanti non valgono zero.
+Se manca settembre, il trimestre target è incompleto. Le aziende interessate vengono escluse dalla generazione.
+
+4
+00:00:26,000 --> 00:00:34,000
+Una scelta per tutto il lotto.
+Si includono commenti, composizione del costo e reparti. Lo stesso modello si applica ai tre clienti selezionati.
+
+5
+00:00:34,000 --> 00:00:44,000
+Costo e organico, letti insieme.
+Officine Emilia: costo +7,3%, FTE medi +3,2%. Il costo trimestrale per FTE è 10.536 €. La variazione va approfondita.
+
+6
+00:00:44,000 --> 00:00:54,000
+Tre PDF, un solo pacchetto.
+Ogni cliente ha tre pagine: sintesi, costo e organizzazione. Lo ZIP contiene anche riepilogo studio, reparti e copertura.
+
+7
+00:00:54,000 --> 00:01:02,000
+Dagli export ai documenti.
+Preparazione dei dati, analisi e produzione di report in lotto. Un flusso riproducibile con input e risultati verificabili.

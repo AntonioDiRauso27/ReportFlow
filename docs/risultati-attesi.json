@@ -1,0 +1,77 @@
+{
+  "scenario": "Dati sintetici; target 2026-Q3; riferimento 2026-Q2",
+  "records": 319,
+  "export": [
+    {
+      "name": "Export_A_2026-04.csv",
+      "records": 53
+    },
+    {
+      "name": "Export_B_2026-05.csv",
+      "records": 53
+    },
+    {
+      "name": "Export_A_2026-06.csv",
+      "records": 53
+    },
+    {
+      "name": "Export_B_2026-07.csv",
+      "records": 53
+    },
+    {
+      "name": "Export_A_2026-08.csv",
+      "records": 54
+    },
+    {
+      "name": "Export_B_2026-09.csv",
+      "records": 53
+    }
+  ],
+  "reports": [
+    {
+      "company": "Logistica Adriatica",
+      "total": 179533.27,
+      "prior": 178219.69,
+      "delta": 1313.58,
+      "percent": 0.74,
+      "fteAverage": 16.17,
+      "ftePercent": -2.02,
+      "costPerFte": 11105.15,
+      "endPeople": 17,
+      "priorEndPeople": 18,
+      "overtime": 365,
+      "absencePct": 1.37,
+      "holidayEnd": 731
+    },
+    {
+      "company": "Officine Emilia",
+      "total": 228286.44,
+      "prior": 212738.71,
+      "delta": 15547.73,
+      "percent": 7.31,
+      "fteAverage": 21.67,
+      "ftePercent": 3.17,
+      "costPerFte": 10536.3,
+      "endPeople": 24,
+      "priorEndPeople": 23,
+      "overtime": 538,
+      "absencePct": 1.47,
+      "holidayEnd": 1284
+    },
+    {
+      "company": "Studio Aurora",
+      "total": 113278.08,
+      "prior": 109691.69,
+      "delta": 3586.39,
+      "percent": 3.27,
+      "fteAverage": 11,
+      "ftePercent": 0,
+      "costPerFte": 10298.01,
+      "endPeople": 12,
+      "priorEndPeople": 12,
+      "overtime": 258,
+      "absencePct": 1.15,
+      "holidayEnd": 426
+    }
+  ]
+}
